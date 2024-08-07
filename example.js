@@ -21,9 +21,9 @@ console.log(first_number + second_number);
 console.log(first_number - second_number); 
 // mul
 console.log(first_number * second_number); 
-
+// div which gives quotient
 console.log(first_number / second_number); 
-// div which gives remainder
+// below one gives remainder
 console.log(first_number % second_number); 
 
 // increment and decrement( which is shortcuts)
