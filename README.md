@@ -1,2 +1,3 @@
 # JavaScript
-Fundamentals of Java Script
+This is the workplace and some learnings on Javascript
+
